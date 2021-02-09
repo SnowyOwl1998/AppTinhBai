@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tính Sâm</string>
+    <string name="coming_soon">Sắp mở</string>
+    <string name="player_2">Hai người</string>
+    <string name="player_3">Ba người</string>
+    <string name="player_4">Bốn người</string>
+    <string name="player_5">Năm người</string>
+    <string name="title">App Tính Sâm</string>
+    <string name="name">Name</string>
+    <string name="score">0</string>
+    <string name="win_btn">Win</string>
+    <string name="back">Back</string>
+    <string name="tutorial">Hướng dẫn:</string>
+    <string name="tutorial_info">
+        <br>- Nhập tên của từng người chơi\n</br>
+        <br>- Sau mỗi ván tính số cây trên tay người thua, ghi vào hàng thứ 3, riêng người thắng ghi 1 số bất kỳ\n</br>
+        <br>- Nhấn nút Win của người chơi thắng để tính\n</br>
+        <br>- Lặp lại như thế sau mỗi ván kết thúc</br>
+    </string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="log">Log</string>
+</resources>
